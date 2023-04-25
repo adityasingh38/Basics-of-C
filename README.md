@@ -5,7 +5,7 @@ C is a powerful programming language with a relatively simple syntax. It is wide
 
 
 ## Key Points
-Here are some important points about linear search:
+Here are some important points:
 
 •	Data Types: C has a variety of data types including int, float, double, char, and others. These data types are used to define variables, constants, and other objects in a C program.
 
